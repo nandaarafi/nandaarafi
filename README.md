@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nanda Muhammad Rafi</h1>
-<h3 align="left" style="font-size: 10px;">A passionate Data Engineer from Indonesia. with a strong interest in the data field, particularly in data engineering, data science, data anlyst, Machine learning. </h3>
+<h3 align="left" style="font-size: 10px;">I am a fullstack python and flutter engineer, I have develop several application with flutter, also I am a machine learning engineer including classic machine learning, deep learning, computer vision, LLM Engineer, Big Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandaarafi&label=Profile%20views&color=0e75b6&style=flat" alt="nandaarafi" /> </p>
 

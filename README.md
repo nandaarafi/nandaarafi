@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nanda Muhammad Rafi</h1>
-<h3 align="left" style="font-size: 10px;">I am a fullstack python and flutter engineer, I have develop several application with flutter</h3>
+<h3 align="left" style="font-size: 10px;">Hello I am a student learning fullstack dev in nextjs, reactjs, and node js, express js for the backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandaarafi&label=Profile%20views&color=0e75b6&style=flat" alt="nandaarafi" /> </p>
 
